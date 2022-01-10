@@ -43,8 +43,7 @@ public class RandomFragment extends Fragment implements View.OnClickListener {
     public RandomFragment() {
         // Required empty public constructor
     }
-
-    // TODO: Rename and change types and number of parameters
+    
     public static RandomFragment newInstance() {
         RandomFragment fragment = new RandomFragment();
         return fragment;
